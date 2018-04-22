@@ -29,5 +29,5 @@ shadowsocks-libqss.exe -c config.json -S
 
 1.运行启动脚本即可，停止运行关闭命令行窗口即可
 
-![](https://note.youdao.com/yws/res/1860/WEBRESOURCEbb90b294006ce5f4fabd1d079fb9c4cf)  
+![](https://github.com/aowoiiii/Shadowsocks_sharenetwork/blob/master/img/1.png)  
 
