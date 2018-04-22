@@ -28,17 +28,17 @@ shadowsocks-libqss.exe -c config.json -S
 ```
 
 ## 服务端
-1.运行启动脚本即可，停止运行关闭命令行窗口即可  
+1.运行启动脚本即可，停止运行关闭命令行窗口即可
 
 ![](https://github.com/aowoiiii/Shadowsocks_sharenetwork/blob/master/img/1.png)  
 
-2.CMD查询主机IP并记下来  
+2.CMD查询主机IP并记下来
 
 ![](https://github.com/aowoiiii/Shadowsocks_sharenetwork/blob/master/img/2.png)
 
 ## 客户端
-1.在Shadowsocks里面填写之前设置的相关信息  
-![](https://github.com/aowoiiii/Shadowsocks_sharenetwork/blob/master/img/3.png){:height="50%" width="50%"}
+1.在Shadowsocks里面填写之前设置的相关信息
+![](https://github.com/aowoiiii/Shadowsocks_sharenetwork/blob/master/img/3.png)
 
-2.启动代理并设置代理模式  
-![](https://github.com/aowoiiii/Shadowsocks_sharenetwork/blob/master/img/4.png){:height="50%" width="50%"}
+2.启动代理并设置代理模式
+![](https://github.com/aowoiiii/Shadowsocks_sharenetwork/blob/master/img/4.png)
