@@ -5,17 +5,16 @@
 优点：有线接入时延迟低，无线接入时利用学校WIFI能大范围分享  
 
 配置文件:config.json
-``` 
-	"server":"0.0.0.0",  
-    "server_port":8023,  
-    "local_address":"127.0.0.1",  
-    "local_port":1080,  
-    "password":"00001111",  
-    "timeout":600,  
-    "method":"aes-256-cfb",  
-    "http_proxy": false,  
-    "auth": false  
-
+```
+"server":"0.0.0.0",  
+"server_port":8023,  
+"local_address":"127.0.0.1",  
+"local_port":1080,  
+"password":"00001111",  
+"timeout":600,  
+"method":"aes-256-cfb",  
+"http_proxy": false,  
+"auth": false  
 ```
 服务器地址填写::表示同时监听所有IPv4和所有IPv6地址
 注意 method 加密类型
