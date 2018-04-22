@@ -37,8 +37,8 @@ shadowsocks-libqss.exe -c config.json -S
 ![](https://github.com/aowoiiii/Shadowsocks_sharenetwork/blob/master/img/2.png)
 
 ## 客户端
-1.在Shadowsocks里面填写之前设置的相关信息
+1.在Shadowsocks里面填写之前设置的相关信息  
 ![](https://github.com/aowoiiii/Shadowsocks_sharenetwork/blob/master/img/3.png)
 
-2.启动代理并设置代理模式
+2.启动代理并设置代理模式  
 ![](https://github.com/aowoiiii/Shadowsocks_sharenetwork/blob/master/img/4.png)
